@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>wall-1.png</file>
+        <file>wall-2.png</file>
+        <file>coin_001.png</file>
+        <file>coin_002.png</file>
+        <file>coin_003.png</file>
+        <file>coin_004.png</file>
+        <file>blood.png</file>
+        <file>ascepter.png</file>
+        <file>arrow1.png</file>
+        <file>circle.png</file>
+        <file>jump.png</file>
+        <file>run1.png</file>
+        <file>run2.png</file>
+        <file>run3.png</file>
+        <file>run4.png</file>
+        <file>jmsg.png</file>
+        <file>mfsl.png</file>
+        <file>qhzz.png</file>
+        <file>yhqc.png</file>
+        <file>jgsl.png</file>
+        <file>stopge.png</file>
+        <file>dpg.png</file>
+        <file>front.png</file>
+        <file>hurt.png</file>
+        <file>jt.png</file>
+        <file>btn1.png</file>
+        <file>btn2.png</file>
+        <file>btn3.png</file>
+        <file>btn4.png</file>
+        <file>btn5.png</file>
+        <file>btn6.png</file>
+        <file>btn7.png</file>
+        <file>btn8.png</file>
+        <file>title.png</file>
+        <file>mbottle.png</file>
+        <file>btn2_1.png.jpg</file>
+        <file>magicalbook.png</file>
+        <file>ncircle.png</file>
+        <file>shrand.png</file>
+        <file>bequest.png</file>
+        <file>gbl.png</file>
+        <file>monkey.png</file>
+        <file>emo.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
