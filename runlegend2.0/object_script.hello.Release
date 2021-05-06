@@ -1,0 +1,13 @@
+release/barriers.o
+release/hero.o
+release/main.o
+release/mainwindow.o
+release/mybutton.o
+release/myrunwidget.o
+release/shrad-dlg.o
+release/qrc_myrunimg.o
+release/moc_hero.o
+release/moc_mainwindow.o
+release/moc_mybutton.o
+release/moc_myrunwidget.o
+release/moc_shrad-dlg.o

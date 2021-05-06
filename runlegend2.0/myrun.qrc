@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/image"/>
+    <qresource prefix="/dta"/>
+    <qresource prefix="/">
+        <file>../../Downloads/wall-1.png</file>
+    </qresource>
+</RCC>
