@@ -1,6 +1,6 @@
 # RunningLegend(奔跑传奇)
 
-一款基于qt和集成了勇者之路2与Dota2奇幻元素的X-Y Axis平面跑酷游戏
+一款基于qt的面向对象编程同时在游戏的美工设计上集成了勇者之路2与Dota2奇幻元素的X-Y Axis平面跑酷游戏
 
 `Sound``Animation``Keyboard jump and spurt`
 
